@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "`Node.js: v20.9.0`",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katson Matheus <katson.matheus.1@gmail.com> (https://github.com/katson1)",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "md5": "^2.3.0",
+    "mongoose": "^8.1.3",
+    "node": "^21.6.2"
+  }
+}
