@@ -10,19 +10,18 @@ const userSchema = new Schema({
         type: String,
         required: true
     },
-    fullName: {
-        type: String,
-        default: ''
+    role: {
+        type: Number,
+        retuired: true
     },
-    contact: {
-        type: String,
-        default: ''
-    }, 
     personalKey: {
         type: String,
         required: true,
-        unique: true,
         default: '-',
+    },    
+    isActive: {
+        type: Boolean,
+        default: false
     },
 });
 
