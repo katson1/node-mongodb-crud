@@ -1,6 +1,6 @@
-# NodeJS CRUD with MongoDB
+# NodeJS User CRUD with MongoDB
 
-### CRUD using node and mongodb.
+### User CRUD using node and mongodb.
 
 #### Using ES module
 
