@@ -25,7 +25,7 @@ Copy the `.env.example` to `.env`:
   ```
 cp .env.example .env
   ```
-Run this command in another terminal to start mongodb:
+Run this command in a other terminal to start mongodb:
   ```
 mongod
   ```
